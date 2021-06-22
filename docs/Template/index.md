@@ -2,7 +2,6 @@
 layout: default
 title: Template
 has_children: true
-permalink: /docs/template/
 ---
 
 # Template
